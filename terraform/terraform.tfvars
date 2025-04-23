@@ -1,3 +1,3 @@
 rgname   = "github-action"
 location = "East US"
-sname    = "kavouriourg"
+sname    = "kavouriour-g"
